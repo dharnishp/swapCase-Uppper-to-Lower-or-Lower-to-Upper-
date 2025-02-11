@@ -5,6 +5,8 @@ or in the lower case then you are required to change it to upper case and print 
 
 */
 
+package com.dharnish.interviewsquestions;
+
 import java.util.Scanner;
 class Wipro24_1
 {
